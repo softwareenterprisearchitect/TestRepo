@@ -1,0 +1,71 @@
+Skills
+•	10 years of experience in developing e-learning applications with Angular 8+ and AngularJS, NodeJS, Express, JavaScript 5/6, TypeScript, jQuery, HTML 5, CSS 3, SCSS, Bootstrap, Grunt, Gulp, Webpack, CouchDB, AWS S3, AWS Lambda, Java 5
+•	UI design implementation with WCAG level AA compliance in HTML5 and CSS3. 
+•	Experience in developing modularized UI/UX components in vanilla JavaScript 5/6, HTML5 and CSS3 with cross browser support.
+•	In depth understanding and good hands-on experience of web APIs like DOM, Fetch, Client side storage APIs and proficient with asynchronous programming.
+•	collaborated with product designers over Figma and Invision to deliver optimal user experience. 
+•	Page load performance optimizations using lighthouse and webpagetest.
+•	Identification of requirements, conceptualizing and implementation of features through Agile Software Development using Miro boards, JIRA dashboards and tickets and leading daily standup meetings.
+•	Experience in Code Sustenance, Quality Check via SonarQube, Sentry and New Relic
+•	Experience with common module bundlers and runtime tools like NPM, Webpack.
+•	Strong experience in debugging tools like firebug, chrome dev tools and browserstack 
+•	Good Working knowledge of working with Git and collaborative coding workflows.
+•	Independently managed debugging and fixing production crashes with minimum turnaround time.
+•	Managed Cross-Functional interactions with Product Owner, Product Designers, Quality    Assurance and other Engineering teams.
+•	Experience with feature analysis, feature breakdown into epics and stories and providing estimates of story points. Managed cross team dependencies and deployments.
+•	2+ years of experience in leading team with frontend and backend designs and coordinating on individual contributions. 
+•	Know-how of AWS Cloud: ECS, EC2, Lambda, SQS, SNS, EventBridge, S3, Redis, CodePipeline, CodeBuild, IAM, Systems Manager, Cloudfront, etc.
+•	Experience in working and debugging remote linux servers
+•	In-depth understanding and experience in all phases of Software Development Life Cycle (SDLC)
+•	Worked on Event-Driven architectures and Microservices using AWS cloud, Micro-frontends using multiple web frameworks
+
+Experience
+Compro Technologies Pvt Ltd, New Delhi, India, Jun 2013-Jul 2023 (10 years)
+Jan 2020 - Jul 2023	Lead Software Engineer	Leading development of LMS (Learning Management Systems) across multiple projects in HTML5, CSS3, bootstrap, Angular 8+, Typescript, RxJS, Nodejs and AWS. Mentoring and participating in peer-level code reviews. 
+Dec 2016 - Dec 2020	Senior Software Engineer	End to end development of complex features in HTML5, CSS3, bootstrap, angular/typescript and angularjs, nodejs, express, CouchDB and AWS
+Jul 2014 - Nov 2016	Software Engineer	Involved in development and conceptualization of inhouse product using HTML5, CSS3, jQuery, and bootstrap angularjs, nodejs, CouchDB and AWS
+Jun 2013 - Jun 2014	Associate Software Engineer	Contributing in development of LMS in Java, J2EE, spring, struts and MySQL
+
+
+Professional Projects
+Cambridge One IELTS Intelligence
+Client: CUPA (Cambridge University Press & Assessment)
+Project Description: IELTS intelligence is a web-based application to assess the      IELTS skills of a student and provide personalized feedbacks. Handshaking of IELTS intelligence with Metrica test providers using LTI to provide a seamless test taking experience and feedbacks.
+Responsibilities:
+•	Developed SPA using Javascript 6, Angular 8, Typescript, RxJS, NodeJS, Express, bootstrap and SCSS.
+•	Upgraded Angular version from Angular 8  to Angular 16 and managing corresponding dependencies
+•	Responsive development of web application using bootstrap and CSS media queries.
+•	Developed webpages design by products teams in Figma pro
+•	Implemented and conceptualizing CSS layout of webpages in the SPA to make it mobile-friendly and accessible.
+•	Created guidelines/good practices and code skeletons to be used by junior team members to build responsive and accessible webpages.
+•	Increased customer conversion rate by optimizing the page load of landing page. This was achieved by developing the landing page in vanilla javascript and employing other optimization techniques.
+•	Optimized webpage performance to meet benchmarks and network          budgets with the help of webpack bundling, optimized network calls and using angular lazy loading.
+•	Upgraded the application to higher angular versions, along with other libraries to remove vulnerabilities in the third party code.
+•	Designed and implemented “backend-for-frontend” for fetching the response from backend REST APIs
+•	Implemented handshaking with third-party vendors via AWS Eventbridge, AWS Lambda, AWS S3 and IAM policies. 
+
+ComproDLS Builder
+Project Description: Builder is a SAAS-based content assembly and authoring solution for rapid creation of portable learning products supporting real time collaboration between multiple users.
+Responsibilities:
+•	Designed and developed SPA (single page application) from ground up using Javascript 5, NodeJS, Express, Angular JS, Bootstrap, Couch DB, Pouch DB
+•	Designing noSQL databases and creating indexes and views for according to business and performance requirements of the application.
+•	Upgraded node 16 application to node 18 over the years to remove vulnerabilities and keep the application up to date.
+•	Developed draggable and interactive UI widgets using angular js directives and jquery UI components.
+•	Developed application dashboard using MVC architecture, service and singleton design patterns.
+•	Decided Build and Deployment Strategies in Linux environment using NPM, webpack, docker, AWS code build and code pipeline
+•	Handshaking with external vendors via AWS serverless architecture to provide an automated authoring workflow for e-learning products.
+•	Developed nodeJS tasks to automate creation of course and books TOCs, hotlinks and settings by uploading excel files.
+•	Worked in with an event-driven system using Amazon S3 and RabbitMQ, employing publisher-subscriber queues to efficiently process the uploaded assets.
+•	Decreased processing time for memory and computation-intensive tasks by identifying and resolving bottlenecks. Implemented parallel computation through Redis locks to ensure mutual exclusivity among workers.
+•	Developed validated, secure REST APIs with appropriate error handling and logging via middleware, swagger and YAML.
+
+MyELT LMS
+Client: Cengage
+Project Description: Web based learning management System for English Language Teaching which facilitates learning through teacher-led activities and        self-study options and assists in creation of homework assignments, grading papers and measuring progress.
+Responsibilities: 
+•	Extended data model of existing architecture to incorporate the new features. 
+•	Developed backend components using Java 5 and Apache Struts, Spring and MySQL. 
+•	Developed of responsive components using HTML, CSS, bootstrap, Javascript and JSP, JQuery Backbone. 
+•	Designed report generation tools and developed complex SQL queries required to generate reports.
+•	Created robust REST APIs in using J2EE and strusts to support frontend.
+•	Developed tool consumer in MYELT which registers multiple tool providers using MySQL and JAVA. Establishing Connection of tool - providers with various tool consumers using LTI specifications and OAuth 1.
